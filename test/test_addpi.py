@@ -1,0 +1,4 @@
+import gpumark
+
+
+gpumark.AddPi()
